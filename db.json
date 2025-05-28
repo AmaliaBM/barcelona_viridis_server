@@ -1,77 +1,96 @@
 {
-"vegetation": [
-{
-    "id": 1,
-    "name": "lore ipsum1",
-    "latinName": "latin name 1",
-    "placeId": 1,
-    "category": "tree",
-    "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
-    "image": ""
-},
-{
+  "vegetation": [
+    {
+      "id": 1,
+      "name": "lore ipsum1",
+      "latinName": "latin name 1",
+      "placeId": 1,
+      "category": "tree",
+      "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "lore ipsum2",
+      "latinName": "latin name 2",
+      "placeId": 1,
+      "category": "flower",
+      "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "lore ipsum3",
+      "latinName": "latin name 3",
+      "placeId": 2,
+      "category": "bush",
+      "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "lore ipsum4",
+      "latinName": "latin name 4",
+      "placeId": 3,
+      "category": "green Area",
+      "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "lore ipsum5",
+      "latinName": "latin name 5",
+      "placeId": 5,
+      "category": "tree",
+      "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
+      "image": ""
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Gracia",
+      "description": "owjrlwmrr",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Putxet i el farró",
+      "description": "owjrlwmrr",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Sant Gervasi",
+      "description": "owjrlwmrr",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "Poble neu",
+      "description": "owjrlwmrr",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Vallcarca",
+      "description": "owjrlwmrr",
+      "image": ""
+    }
+  ],
+  "article": [
+    {
+      "id": 1,
+      "title": "3-30-300 rule",
+      "text": "What is the 3-30-300 rule?\n\nThe 3-30-300 rule is based on three key principles that every city should consider:\n✔️ 3 trees in view\n\nEveryone should be able to see at least 3 mature trees from their home, workplace, or school.\n\n🔹 Looking at trees through a window helps reduce stress, improve mood, and strengthen our connection with nature.\n\n✔️ 30% tree canopy cover in every neighborhood\n\nEach urban neighborhood should have at least 30% tree canopy cover—that is, 30% of the area should be shaded by tree canopies.\n\n🔹 This helps cool cities, improve air quality, reduce urban noise, and boost biodiversity.\n\n✔️ 300 meters to a quality green space\n\nEveryone should live no more than 300 meters from a public, accessible, and well-maintained green space.\n\n🔹 Easy access to parks and green areas promotes physical activity, mental well-being, and community connection.\n\n🌍 A simple rule with a big impact\n\nWhat makes the 3-30-300 rule so powerful is its simplicity: it's easy to understand, measurable, and applicable in all kinds of urban contexts—from big cities to small towns.\n\nAt Barcelona Viridis, we promote this vision because we believe that having more trees and green spaces nearby is not a luxury—it’s a necessity for our health and the planet’s.\n\n🌱 Want to know if your neighborhood meets the 3-30-300 rule?\nExplore it in our app and help us imagine and build a greener, healthier Barcelona for everyone.",
+      "image": ""
+    },
+    {
     "id": 2,
-    "name": "lore ipsum2",
-    "latinName": "latin name 2",
-    "placeId": 1,
-    "category": "flower",
-    "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
+    "title": "More Green, Less Premature Death",
+    "text": "An international study led by the Barcelona Institute for Global Health (ISGlobal) confirms that living near greenery significantly reduces the risk of premature death.\n\nResearchers analyzed data from over 8 million people in seven countries, using satellite images to measure vegetation near their homes. The finding is clear: for every 0.1 increase in the NDVI vegetation index within 500 meters of a residence, there's a 4% reduction in mortality risk.\n\nThis supports what we already sensed—green spaces don’t just lift our mood and reduce stress; they also help save lives.\n\nISGlobal researchers urge that expanding urban green spaces should be a public health and urban planning priority. Beyond health, these areas boost biodiversity, fight climate change, and make cities more livable and sustainable.",
     "image": ""
-},
-{
-    "id": 3,
-    "name": "lore ipsum3",
-    "latinName": "latin name 3",
-    "placeId": 2,
-    "category": "bush",
-    "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
-    "image": ""
-},
-{
-    "id": 4,
-    "name": "lore ipsum4",
-    "latinName": "latin name 4",
-    "placeId": 3,
-    "category": "green Area",
-    "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
-    "image": ""
-},
-{
-    "id": 5,
-    "name": "lore ipsum5",
-    "latinName": "latin name 5",
-    "placeId": 5,
-    "category": "tree",
-    "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
-    "image": ""
-}
-],
-"places": [
-{   "id": 1,
-    "name": "Gracia",
-    "description": "owjrlwmrr",
-    "image": ""
-},
-{   "id": 2,
-    "name": "Putxet i el farró",
-    "description": "owjrlwmrr",
-    "image": ""
-},
-{   "id": 3,
-    "name": "Sant Gervasi",
-    "description": "owjrlwmrr",
-    "image": ""
-},
-{   "id": 4,
-    "name": "Poble neu",
-    "description": "owjrlwmrr",
-    "image": ""
-},
-{   "id": 5,
-    "name": "Vallcarca",
-    "description": "owjrlwmrr",
-    "image": ""
-}
-]
 }
 
+  ]
+}
