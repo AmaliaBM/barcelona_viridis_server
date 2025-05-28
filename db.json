@@ -2,8 +2,8 @@
 "vegetation": [
 {
     "id": 1,
-    "name": "lore ipsum",
-    "latinName": "lore ipsum",
+    "name": "lore ipsum1",
+    "latinName": "latin name 1",
     "placeId": 1,
     "category": "tree",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
@@ -11,8 +11,8 @@
 },
 {
     "id": 2,
-    "name": "lore ipsum",
-    "latinName": "lore ipsum",
+    "name": "lore ipsum2",
+    "latinName": "latin name 2",
     "placeId": 1,
     "category": "flower",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
@@ -20,8 +20,8 @@
 },
 {
     "id": 3,
-    "name": "lore ipsum",
-    "latinName": "lore ipsum",
+    "name": "lore ipsum3",
+    "latinName": "latin name 3",
     "placeId": 2,
     "category": "bush",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
@@ -29,8 +29,8 @@
 },
 {
     "id": 4,
-    "name": "lore ipsum",
-    "latinName": "lore ipsum",
+    "name": "lore ipsum4",
+    "latinName": "latin name 4",
     "placeId": 3,
     "category": "green Area",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
@@ -38,8 +38,8 @@
 },
 {
     "id": 5,
-    "name": "lore ipsum",
-    "latinName": "lore ipsum",
+    "name": "lore ipsum5",
+    "latinName": "latin name 5",
     "placeId": 5,
     "category": "tree",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
