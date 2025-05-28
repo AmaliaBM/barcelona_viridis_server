@@ -7,7 +7,7 @@
       "placeId": 1,
       "category": "tree",
       "description": "The Mysore fig is native to India, Southeast Asia, and Australia. It is characterized by not producing aerial roots, unlike most similar fig trees.\n\nThe Mysore fig is located in a flowerbed on the south side of the residence building, next to a fountain and a small structure that houses a statue of Saint Joseph.",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748448529/Ficus_de_Mysore_del_Santuari_de_Sant_Josep_de_la_Muntaya.760x428.3b496c90_ecjymf.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "placeId": 1,
       "category": "tree",
       "description": "The carob trees in Park Güell are, in and of themselves, trees of general interest, but the specimen presented in this file is an interesting natural phenomenon.\n\nThe current carob tree, with a trunk measuring 90 cm in circumference, is a shoot from a tree that once reached a trunk measuring four meters in circumference, and the shoot is surrounded by whimsical shapes quite similar to Gaudí's lines in the park.",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748448528/Carob-Tree_svycy7.jpg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "placeId": 2,
       "category": "tree",
       "description": "The cork oak is a species native to Mediterranean forests and adapted to silicic soils. It is rare in our city, given that most soils are primarily calcareous.\n\nIn Monterols Park, the availability of space and the lack of competition with other species, which would be typical if it lived in the forest, have allowed it to develop its canopy freely and acquire an aesthetic and harmonious appearance. It is the most notable cork oak specimen in urban public spaces.",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748448528/cork-oak_rou5xn.jpg"
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "placeId": 3,
       "category": "green_area",
       "description": "There are more than five hectares of greenery where native Mediterranean vegetation predominates.",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748448529/parc-central-poble-nou-barcelona-pf-c1_pb0hjz.jpg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "placeId": 4,
       "category": "green_area",
       "description": "Perched on the summit of Turó del Putxet, these gardens, open to the four winds, constitute one of Barcelona's most privileged viewpoints. This, along with abundant vegetation and a wide variety of species (some very rare) and sheltered resting places, gives this green space a strong personality.",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748448866/parque-turo_o4rjyo.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "placeId": 5,
       "category": "green_area",
       "description": "While the Canary Island date palms (Phoenix canariensis and Phoenix dactylifera) are the park's main attractions due to their abundance, the stone pines, alpine pines (Pinus pinea and Pinus halepensis), and holm oaks (Quercus ilex) create a large expanse of characteristically Mediterranean vegetation, also home to large eucalyptus trees (Eucalyptus camaldulensis and Eucalyptus globulus).\n\nNext to the library, oleanders (Nerium oleander) share the space with cypress hedges (Cupressus sempervirens), and near the palm grove, poplars (Populus alba) rise majestically. Elms (Ulmus pumila) and cedars (Cedrus deodara) are other tree species present in this park. Wisteria (Wisteria sinensis) and bougainvillea (Bougainvillea glabra) shine on the pergolas.",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748448930/parc-de-joan-miro_hlfo5q.jpg"
     }
   ],
   "places": [
@@ -69,31 +69,31 @@
       "id": 1,
       "name": "Gracia",
       "description": "Bohemian, artsy, lively, local",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449062/gracia_jlxu9b.jpg"
     },
     {
       "id": 2,
       "name": "Sant Gervasi",
       "description": "Elegant, residential, quiet, affluent",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449188/santgervasi_zgypih.jpg"
     },
     {
       "id": 3,
       "name": "Poblenou",
       "description": "Innovative, industrial, beachy, trendy",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449313/poblenou_fehbzk.jpg"
     },
     {
       "id": 4,
       "name": "El Putxet i el Farró",
       "description": "Hilly, green, peaceful, charming",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449377/ElPutxetielFarr%C3%B3_fk2bvi.jpg"
     },
     {
       "id": 5,
       "name": "la Nova Esquerra de l'Eixample",
       "description": "Central, diverse, modernist, urban",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449428/eixamplepisos-1024x597_brqx54.jpg"
     }
   ],
   "article": [
@@ -101,13 +101,13 @@
       "id": 1,
       "title": "3-30-300 rule (Cecil Konijnendijk)",
       "text": "What is the 3-30-300 (Cecil Konijnendijk)?\n\nThe 3-30-300 rule is based on three key principles that every city should consider:\n✔️ 3 trees in view\n\nEveryone should be able to see at least 3 mature trees from their home, workplace, or school.\n\n🔹 Looking at trees through a window helps reduce stress, improve mood, and strengthen our connection with nature.\n\n✔️ 30% tree canopy cover in every neighborhood\n\nEach urban neighborhood should have at least 30% tree canopy cover—that is, 30% of the area should be shaded by tree canopies.\n\n🔹 This helps cool cities, improve air quality, reduce urban noise, and boost biodiversity.\n\n✔️ 300 meters to a quality green space\n\nEveryone should live no more than 300 meters from a public, accessible, and well-maintained green space.\n\n🔹 Easy access to parks and green areas promotes physical activity, mental well-being, and community connection.\n\n🌍 A simple rule with a big impact\n\nWhat makes the 3-30-300 rule so powerful is its simplicity: it's easy to understand, measurable, and applicable in all kinds of urban contexts—from big cities to small towns.\n\nAt Barcelona Viridis, we promote this vision because we believe that having more trees and green spaces nearby is not a luxury—it’s a necessity for our health and the planet’s.\n\n🌱 Want to know if your neighborhood meets the 3-30-300 rule?\nExplore it in our app and help us imagine and build a greener, healthier Barcelona for everyone.",
-      "image": ""
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449455/Rule330300_oxes4p.png"
     },
     {
     "id": 2,
     "title": "More Green, Less Premature Death",
     "text": "An international study led by the Barcelona Institute for Global Health (ISGlobal) confirms that living near greenery significantly reduces the risk of premature death.\n\nResearchers analyzed data from over 8 million people in seven countries, using satellite images to measure vegetation near their homes. The finding is clear: for every 0.1 increase in the NDVI vegetation index within 500 meters of a residence, there's a 4% reduction in mortality risk.\n\nThis supports what we already sensed—green spaces don’t just lift our mood and reduce stress; they also help save lives.\n\nISGlobal researchers urge that expanding urban green spaces should be a public health and urban planning priority. Beyond health, these areas boost biodiversity, fight climate change, and make cities more livable and sustainable.",
-    "image": ""
+    "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449454/ImagenParaArticulo_wa0veq.png"
 }
 
   ]
