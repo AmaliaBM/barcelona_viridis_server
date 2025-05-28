@@ -5,7 +5,7 @@
     "name": "lore ipsum",
     "latinName": "lore ipsum",
     "placeId": 1,
-    "category": "lore ipsum",
+    "category": "tree",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
     "image": ""
 },
@@ -14,7 +14,7 @@
     "name": "lore ipsum",
     "latinName": "lore ipsum",
     "placeId": 1,
-    "category": "lore ipsum",
+    "category": "flower",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
     "image": ""
 },
@@ -23,7 +23,7 @@
     "name": "lore ipsum",
     "latinName": "lore ipsum",
     "placeId": 2,
-    "category": "lore ipsum",
+    "category": "bush",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
     "image": ""
 },
@@ -32,7 +32,7 @@
     "name": "lore ipsum",
     "latinName": "lore ipsum",
     "placeId": 3,
-    "category": "lore ipsum",
+    "category": "green Area",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
     "image": ""
 },
@@ -41,7 +41,7 @@
     "name": "lore ipsum",
     "latinName": "lore ipsum",
     "placeId": 5,
-    "category": "lore ipsum",
+    "category": "tree",
     "description": "lore ipsum, lore ipsum, lore ipsum, lore ipsum",
     "image": ""
 }
