@@ -104,11 +104,16 @@
       "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449455/Rule330300_oxes4p.png"
     },
     {
-    "id": 2,
-    "title": "More Green, Less Premature Death",
-    "text": "An international study led by the Barcelona Institute for Global Health (ISGlobal) confirms that living near greenery significantly reduces the risk of premature death.\n\nResearchers analyzed data from over 8 million people in seven countries, using satellite images to measure vegetation near their homes. The finding is clear: for every 0.1 increase in the NDVI vegetation index within 500 meters of a residence, there's a 4% reduction in mortality risk.\n\nThis supports what we already sensed—green spaces don’t just lift our mood and reduce stress; they also help save lives.\n\nISGlobal researchers urge that expanding urban green spaces should be a public health and urban planning priority. Beyond health, these areas boost biodiversity, fight climate change, and make cities more livable and sustainable.",
-    "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449454/ImagenParaArticulo_wa0veq.png"
-}
-
+      "id": 2,
+      "title": "More Green, Less Premature Death",
+      "text": "An international study led by the Barcelona Institute for Global Health (ISGlobal) confirms that living near greenery significantly reduces the risk of premature death.\n\nResearchers analyzed data from over 8 million people in seven countries, using satellite images to measure vegetation near their homes. The finding is clear: for every 0.1 increase in the NDVI vegetation index within 500 meters of a residence, there's a 4% reduction in mortality risk.\n\nThis supports what we already sensed—green spaces don’t just lift our mood and reduce stress; they also help save lives.\n\nISGlobal researchers urge that expanding urban green spaces should be a public health and urban planning priority. Beyond health, these areas boost biodiversity, fight climate change, and make cities more livable and sustainable.",
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748449454/ImagenParaArticulo_wa0veq.png"
+    },
+    {
+      "id": 3,
+      "title": "Practicing outdoor sports in green spaces improves your quality of life",
+      "text": "How can people living in cities improve their quality of life? Green spaces, plants, and trees are not merely aesthetic elements in urban design. Various scientific studies show that people who engage in outdoor sports significantly improve their quality of life, as well as their physical and mental health.\n\nThat’s why in many large cities, such as New York, it is common to see people gathering in parks like Central Park to practice outdoor hobbies. This provides relief for our brains, as we produce endorphins not only from physical activity but also from being surrounded by more natural environments.\n\nAlthough we all have the need to live in cities for various reasons, we can work together and strive to ensure that all urban areas include the natural spaces our body, mind, and heart truly need.",
+      "image": "https://res.cloudinary.com/dagphzq9d/image/upload/v1748588178/4420249_tlsl29.jpg"
+    }
   ]
 }
